@@ -17,3 +17,6 @@ npx cap sync
 <!-- run docgen to generate docs from the source -->
 <!-- More info: https://github.com/ionic-team/capacitor-docgen -->
 </docgen-api>
+
+## Link qrcode-scanner-plugin repo
+https://github.com/capacitor-community/barcode-scanner
